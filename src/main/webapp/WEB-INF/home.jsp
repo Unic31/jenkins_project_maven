@@ -29,7 +29,7 @@
 </div>
 <div class="input-group" style="width: 250px; margin-left: 50px">
 	<select id="seltrans" class="form-select" >
-	<option value="kr">한국어</option>
+	<option value="ko">한국어</option>
 		<option value="en">영어</option>
 		<option value="ja">일어</option>
 		<option value="zh-CN">중국어</option>
